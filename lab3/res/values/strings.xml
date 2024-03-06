@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="add">Add</string>
+    <string name="sub">Sub</string>
+    <string name="div">Div</string>
+    <string name="mul">Mul</string>
+    <string name="nr1">0</string>
+    <string name="nr2">0</string>
+</resources>
